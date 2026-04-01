@@ -2,10 +2,10 @@
 
 # 💫 About Me
 🚀 I'm a **Senior Systems Test Engineer** at **Blu Wireless Technology**, where I work on
-validating and automating **5G and 60GHz wireless systems** — spanning FWA, mesh, and V2V
+validating and automating **5G 60GHz wireless systems** spanning FWA, mesh, and HST
 use cases across complex multi-device environments.<br><br>
-🔧 I'm passionate about bridging **Test Automation**, **DevOps**, and **CI/CD** — building
-reliable, scalable frameworks that cover everything from OTA deployments to real-time
+🔧 I work on bridging **Test Automation**, **DevOps**, and **CI/CD**; building
+reliable, scalable frameworks that cover simulating deployment scenarios to real-time
 performance monitoring.<br><br>
 🌱 Currently deepening my expertise in **AWS** (Solutions Architect certified), **Terraform**,
 **Playwright**, and **cloud-native infrastructure** — with a focus on applying IaC and pipeline
