@@ -1,4 +1,4 @@
-# Hi There, I'm Ahmed Mirreh👋
+# Hi There, I'm Ahmed👋
 
 # 💫 About Me
 🚀 I'm a **Senior Systems Test Engineer** at **Blu Wireless Technology**, where I work on
